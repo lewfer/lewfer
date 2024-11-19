@@ -15,6 +15,7 @@ https://www.linkedin.com/in/llewelynfernandes
 
 ### BitMakeLab
 Projects and other resources for the BitMakeLab digital making kit.
+
 <img src="images/bitmakelab.png" width=400>
 https://github.com/lewfer/BitMakeLab
 
