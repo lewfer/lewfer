@@ -11,67 +11,140 @@ Feel free to contact me on LinkedIn:
 https://www.linkedin.com/in/llewelynfernandes
 
 
-## Key Repositories
-
-### BitMakeLab
+## BitMakeLab
 Projects and other resources for the BitMakeLab digital making kit.
 
 <img src="images/bitmakelab.png" width=400>
+
 https://github.com/lewfer/BitMakeLab
 
-### Microbit Extensions
+## Microbit Extensions
 <img src="images/microbit.jpg" width=400>
 
-#### DF Robot Motor Controller Extension (for BitMakeLab)
+### DF Robot Motor Controller Extension (for BitMakeLab)
 https://github.com/lewfer/mb-motors
 
-#### 7-segment LED Display Extension 
+### 7-segment LED Display Extension 
 https://github.com/lewfer/mb-numeric-led
 
-#### Remote Controller Extension (ElecFreaks v1)
+### Alphanumic LED Display Extension
+https://github.com/lewfer/mb-alpha-led
+
+### Remote Controller Extension (ElecFreaks v1)
 Sends radio messages based on remote control joystick and button actions.<br/>
 https://github.com/lewfer/mb-remote-control
 
-#### Remote Receiver Extension 
+### Remote Receiver Extension 
 Receives radio messages from remote control.<br/>
 https://github.com/lewfer/mb-remote-receiver
 
-
-#### Mechanical Eyes Extension (Crickit version)
+### Mechanical Eyes Extension (Crickit version)
 https://github.com/lewfer/mb-eyes-crickit
 
-#### Crawlbot Extension (Kitronik version)
+### Crawlbot Extension (Kitronik version)
 https://github.com/lewfer/mb-crawlbot-kitronik
 
-#### Creatures Workshop Extension 
+### Creatures Workshop Extension 
 https://github.com/lewfer/mb-creatures
 
-
-#### Renewable Energy Workshop Extension 
+### Renewable Energy Workshop Extension 
 https://github.com/lewfer/mb-renewable-energy
 
-### Workshops
+## Workshops
 <img src="images/workshops.png" width=400>
 
-#### Jetson Nano Self-driving car Workshop
-https://github.com/lewfer/GIC-JetsonNano-Self-Driving-Car
+### P5 Art
+https://github.com/lewfer/P5-Art
 
-#### Trains Bootcamp
-https://github.com/lewfer/Robotics-Pico-Trains-Bootcamp
+### P5 Chatbot
+https://github.com/lewfer/P5-Chatbot
 
-#### Robotics with Raspberry Pi Pico
+### P5 Doodle Classifier
+https://github.com/lewfer/P5-Doodle-Classifier
+
+### P5 Dress your Face
+https://github.com/lewfer/P5-Dress-Your-Face
+
+### P5 Gesture Control
+https://github.com/lewfer/P5-Gesture-Control
+
+### P5 Maps
+https://github.com/lewfer/P5-Maps
+
+### P5 Music Visualisation
+https://github.com/lewfer/P5-Music-Visualisation
+
+---
+
+### Data Visualisation with P5
+https://github.com/lewfer/Data-Visualisation-P5
+
+### Data Visualisation with D3
+https://github.com/lewfer/Data-Visualisation-D3
+
+---
+
+### Data Science Introduction
+https://github.com/lewfer/Data-Science-Introduction
+
+---
+
+### Robotics with Raspberry Pi Pico
 https://github.com/lewfer/Robotics-Design-Build-Code-RPi-Pico
 
-#### Plant Harvester
+### Robotics with the Raspberry Pi
+https://github.com/lewfer/Robotics-Design-Build-Code-RPi
+
+### Crawler Robot with the Microbit
+https://github.com/lewfer/Robotics-Microbit-Crawler
+
+### Mechanical Eyes with the Microbit
+https://github.com/lewfer/Robotics-Microbit-Eyes
+
+### Remote Robotic Hand with the Microbit
+https://github.com/lewfer/Robotics-Microbit-Remote-Hand
+
+### Web Controlled Robot
+https://github.com/lewfer/Robotics-Web-Controlled-Robot
+https://github.com/lewfer/Robotics-Web-Controlled-Robot-Full
+
+---
+### Tilting Maze Workshop
+https://github.com/lewfer/Other-Microbit-Tilting-Maze
+
+### Raspberry Pi Camera Workshop
+https://github.com/lewfer/Other-RPi-Camera
+
+
+## Girls into Coding Workshops
+### Jetson Nano Self-driving Car Workshop
+https://github.com/lewfer/GIC-JetsonNano-Self-Driving-Car
+
+### Trains Bootcamp
+https://github.com/lewfer/Robotics-Pico-Trains-Bootcamp
+
+### Plant Harvester Workshop
 https://github.com/lewfer/GIC-Pico-Sustainability-Plant-Harvester
 
-### Pico Recipes
-<img src="images/pico.png" width=400>
+### Renewable Energy Workshop
+https://github.com/lewfer/GIC-Microbit-Energy
 
-#### Raspberry Pi Pico Receipes (Circuitpython)
+### Electric Bicycle Workshop
+https://github.com/lewfer/GIC-Pico-Bicycle
+
+
+## Digital Making Recipes
+<img src="images/digital-making.jpg" width=400>
+
+### Raspberry Pi Pico Receipes (Circuitpython)
 https://github.com/lewfer/Digital-Making-RPi-Pico-Circuitpython
 
-#### Raspberry Pi Pico Recipes (Micropython)
+### Raspberry Pi Pico Recipes (Micropython)
 https://github.com/lewfer/Digital-Making-RPi-Pico-Micropython
 
+### Arduino Recipes
+https://github.com/lewfer/Digital-Making-Arduino
+
+### Raspberry Pi Recipes
+https://github.com/lewfer/Digital-Making-RPi
 
