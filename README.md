@@ -1,4 +1,4 @@
-# This is the GitHub repository of Llewelyn Fernandes
+# Llewelyn Fernandes
 
 Please see my website for details of courses and workshops I run in creative computing as well as supporting resources:
 
@@ -11,7 +11,7 @@ Feel free to contact me on LinkedIn:
 https://www.linkedin.com/in/llewelynfernandes
 
 
-## Key Respositories
+## Key Repositories
 
 ### BitMakeLab
 Projects and other resources for the BitMakeLab digital making kit.
@@ -23,51 +23,55 @@ https://github.com/lewfer/BitMakeLab
 <img src="images/microbit.jpg" width=400>
 
 #### DF Robot Motor Controller Extension (for BitMakeLab)
-https://github.com/lewfer/mb-df-robot
+https://github.com/lewfer/mb-motors
 
 #### 7-segment LED Display Extension 
-https://github.com/lewfer/microbit-ext-numeric-led-display
+https://github.com/lewfer/mb-numeric-led
 
-#### Mechanical Eyes Extension (Crickit version)
-https://github.com/lewfer/microbit-ext-eyes-crickit
-
-#### Crawlbot Extension (Kitronik version)
-https://github.com/lewfer/microbit-ext-crawlbot-kitronik
-
-#### Creatures Workshop Extension 
-https://github.com/lewfer/microbit-ext-creatures
-
-#### Remote Controller Extension 
-https://github.com/lewfer/microbit-ext-remote-controller
+#### Remote Controller Extension (ElecFreaks v1)
+Sends radio messages based on remote control joystick and button actions.<br/>
+https://github.com/lewfer/mb-remote-control
 
 #### Remote Receiver Extension 
-https://github.com/lewfer/microbit-ext-remote-receiver
+Receives radio messages from remote control.<br/>
+https://github.com/lewfer/mb-remote-receiver
+
+
+#### Mechanical Eyes Extension (Crickit version)
+https://github.com/lewfer/mb-eyes-crickit
+
+#### Crawlbot Extension (Kitronik version)
+https://github.com/lewfer/mb-crawlbot-kitronik
+
+#### Creatures Workshop Extension 
+https://github.com/lewfer/mb-creatures
+
 
 #### Renewable Energy Workshop Extension 
-https://github.com/lewfer/microbit-renewable-energy
+https://github.com/lewfer/mb-renewable-energy
 
 ### Workshops
 <img src="images/workshops.png" width=400>
 
 #### Jetson Nano Self-driving car Workshop
-https://github.com/lewfer/c2-jetsonnano-self-driving-car
+https://github.com/lewfer/GIC-JetsonNano-Self-Driving-Car
 
 #### Trains Bootcamp
-https://github.com/lewfer/trains-bootcamp
+https://github.com/lewfer/Robotics-Pico-Trains-Bootcamp
 
 #### Robotics with Raspberry Pi Pico
-https://github.com/lewfer/course-robotics-rpi-pico
+https://github.com/lewfer/Robotics-Design-Build-Code-RPi-Pico
 
 #### Plant Harvester
-https://github.com/lewfer/c2-sustainability-plant-harvester
+https://github.com/lewfer/GIC-Pico-Sustainability-Plant-Harvester
 
 ### Pico Recipes
 <img src="images/pico.png" width=400>
 
 #### Raspberry Pi Pico Receipes (Circuitpython)
-https://github.com/lewfer/recipes-rpi-pico-circuitpython
+https://github.com/lewfer/Digital-Making-RPi-Pico-Circuitpython
 
 #### Raspberry Pi Pico Recipes (Micropython)
-https://github.com/lewfer/recipes-rpi-pico-micropython
+https://github.com/lewfer/Digital-Making-RPi-Pico-Micropython
 
 
